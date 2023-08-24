@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.e060f102.css",
-    "main.js": "/github.io/static/js/main.4bfebc1f.js",
-    "index.html": "/github.io/index.html",
-    "main.e060f102.css.map": "/github.io/static/css/main.e060f102.css.map",
-    "main.4bfebc1f.js.map": "/github.io/static/js/main.4bfebc1f.js.map"
+    "main.css": "/gargharibyan/static/css/main.e060f102.css",
+    "main.js": "/gargharibyan/static/js/main.4bfebc1f.js",
+    "index.html": "/gargharibyan/index.html",
+    "main.e060f102.css.map": "/gargharibyan/static/css/main.e060f102.css.map",
+    "main.4bfebc1f.js.map": "/gargharibyan/static/js/main.4bfebc1f.js.map"
   },
   "entrypoints": [
     "static/css/main.e060f102.css",
