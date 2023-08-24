@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gargharibyan.github.io.git/static/css/main.e060f102.css",
+    "main.js": "/gargharibyan.github.io.git/static/js/main.fd66cd86.js",
+    "index.html": "/gargharibyan.github.io.git/index.html",
+    "main.e060f102.css.map": "/gargharibyan.github.io.git/static/css/main.e060f102.css.map",
+    "main.fd66cd86.js.map": "/gargharibyan.github.io.git/static/js/main.fd66cd86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e060f102.css",
+    "static/js/main.fd66cd86.js"
+  ]
+}
